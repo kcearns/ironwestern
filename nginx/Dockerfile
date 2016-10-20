@@ -1,2 +1,2 @@
-FROM openresty/openresty:1.11.2.1-alpine
+FROM nginx:1.11.5-alpine
 
